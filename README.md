@@ -3,7 +3,6 @@
 
 This is a music website called vibeTunes to create and listen to music.
 
-<h3>Live Link: https://cut-use-3761-4rt48rwoi-nainapremani.vercel.app/?vercelToolbarCode=d8S7zIznNIm3stJ</h3> 
 
 
 <h3>About the Project:</h3>
